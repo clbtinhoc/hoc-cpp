@@ -3,12 +3,8 @@ using namespace std;
 
 int main (){
     
-    int a,b,p;
-
-    a = 254;
-    b = 343;
-    p = a + b;
-    cout << p;
-
+    int a = 254;
+    int b = 343;
+    cout << "a + b = " << a + b;
     return 0;
 }
